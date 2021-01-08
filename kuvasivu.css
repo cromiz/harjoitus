@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+#kuva1 {
+	float:left;
+	width: 300px;
+}
+#kuva2 {
+	float:right;
+	width: 300px;
+}
